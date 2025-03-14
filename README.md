@@ -29,5 +29,12 @@ I'm Jason, a Computer Science student at McMaster University. Some of my interes
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
+<!-- <br>
+
+### LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/jxfy?theme=dark)
+
+-->
+
 <br> <br>
 Last Updated: 03/11/2025
